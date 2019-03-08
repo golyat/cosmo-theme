@@ -235,6 +235,7 @@ body.page-index ul.entries-access-ranking li,body.page-index .hatena-module-rece
 body.page-index ul.entries-access-ranking li,body.page-index .hatena-module-recent-entries ul li{
 	float: left;
 	width: 30%;
+	min-height: 50px;
 }
 body.page-index .hatena-module-body ul.entries-access-ranking li{
 	margin: 10px 5px;
